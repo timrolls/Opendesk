@@ -1,8 +1,6 @@
 OpenDesk.cc Design Files
 ===
 
-##### 2017-11-29
-
 > Original repo: https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk
 > Added here for more concise access to just the OpenDesk designs.
 
