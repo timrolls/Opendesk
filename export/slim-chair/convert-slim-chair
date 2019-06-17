@@ -1,0 +1,101 @@
+#!/bin/bash
+
+#sf='1.0'
+sf=`echo '72/25.4' | bc -l`
+isf=`echo '25.4/72' | bc -l`
+
+fnOutline="slim-chair_top-cut-outside_18.000mm.eps"
+fnInset="slim-chair_top-pocket-inside_1.000mm.eps"
+fnHole="slim-chair_top-pocket-inside_3.000mm.eps"
+
+C="10000"
+iC=`echo "(1.0)/($C * $sf)" | bc -l`
+
+toolR=` echo "0.25 * 25.4 / 2" | bc -l`
+toolRC=`echo "$toolR * $C" | bc -l`
+tmpfn=`mktemp`
+tmpofn=`mktemp`
+
+maxiter=100
+
+echo "# C=$C, iC=$iC, R=$toolR, RC=$toolRC (tmpfn $tmpfn, tmpofn $tmpofn)"
+
+#pstoedit -f gnuplot $fnHole | \
+#  ./com.py | \
+#  gp2ngc --premul $isf --z-plunge -1 --z > out_holes.ngc
+
+rm -f out_holes.ngc
+
+pstoedit -f gnuplot $fnHole $tmpfn
+nline=1
+curiter=0
+curRC="$toolRC"
+while [[ "$nline" -gt 0 ]] && [[ "$curiter" -lt "$maxiter" ]]  ; do
+
+  clipcli -F -x $C -s $tmpfn > $tmpofn.0
+  clipcli -R "-$curRC" -s $tmpofn.0 >> $tmpofn.1
+
+  #gp2ngc --premul $iC -i $tmpofn.1 --z-plunge -3 --z >> out_holes.ngc
+
+  nline=`clipcli -R "-$curRC" -s $tmpofn.0 | sed 's/^ *//' | sed 's/ *$//' | grep -P -v '^$'  | wc -l | cut -f1 -d' ' `
+
+  curiter=`expr "$curiter" "+" "1"`
+  curRC=`echo "$curRC + ($toolRC * 2)" | bc -l`
+done
+
+gp2ngc --premul $iC -i $tmpofn.1 --z-plunge -3 --z > out_holes.ngc
+
+rm -f $tmpfn $tmpofn $tmpofn.0 $tmpofn.1 $tmpofn.2 $tmpofn.3
+
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+
+pstoedit -f gnuplot $fnInset $tmpfn
+
+rm -f inset.ngc
+
+nline=1
+curiter=0
+curRC="$toolRC"
+while [[ "$nline" -gt 0 ]] && [[ "$curiter" -lt "$maxiter" ]]  ; do
+
+  clipcli -F -x $C -s $tmpfn > $tmpofn.0
+  clipcli -R "-$curRC" -s $tmpofn.0 >> $tmpofn.1
+  #gp2ngc --premul $iC -i $tmpofn.1 --z-plunge -1 --z >> inset.ngc
+
+  #nline=`gp2ngc --premul $iC -i $tmpofn.1 | sed 's/^ *//' | sed 's/ *$//' | grep -P -v '^$'  | wc -l | cut -f1 -d' ' `
+  nline=`clipcli -R "-$curRC" -s $tmpofn.0 | sed 's/^ *//' | sed 's/ *$//' | grep -P -v '^$'  | wc -l | cut -f1 -d' ' `
+
+  curiter=`expr "$curiter" "+" "1"`
+  curRC=`echo "$curRC + ($toolRC * 2)" | bc -l`
+done
+
+gp2ngc --sort --premul $iC -i $tmpofn.1 --z-plunge -1 --z >> inset.ngc
+
+rm -f $tmpfn $tmpofn $tmpofn.0 $tmpofn.1 $tmpofn.2 $tmpofn.3
+
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+##################################################################################
+
+pstoedit -flat 0.03125 -f gnuplot $fnOutline $tmpfn
+clipcli -F -x $C -s $tmpfn > $tmpofn.0
+clipcli -O 1 -R $toolRC -s $tmpofn.0 > $tmpofn.1
+gp2ngc --preset maslow --premul $iC -i $tmpofn.1 > outline.ngc
+
+cat <( echo "G21" ) out_holes.ngc inset.ngc outline.ngc > fin.ngc
+grecode -cw fin.ngc > fin90.ngc
+grecode -shift -1050 450 fin90.ngc > fin90_s.ngc
+rm -f $tmpfn $tmpofn $tmpofn.0 $tmpofn.1 $tmpofn.2 $tmpofn.3
+

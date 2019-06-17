@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200mm"
+   height="1200mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="slim-chair-v3.0.1-active.svg">
+  <metadata
+     id="metadata1137">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1577"
+     inkscape:window-height="958"
+     id="namedview1135"
+     showgrid="false"
+     inkscape:zoom="0.1121287"
+     inkscape:cx="2611.5461"
+     inkscape:cy="2036.9793"
+     inkscape:window-x="1763"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g825"
+     units="mm"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc4">/home/abe/git/github/abetusk/dev/projects/maslowcnc/opendesk/slim-chair-v3.0.0/REG_SCH_STD_410x507x755_SA_AP_3_0_0_cad-1_18.000-0.0.dxf - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
+  <defs
+     id="defs6">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 0,5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path9"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <pattern
+       height="8"
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path12" />
+      <path
+         d="M6 2 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path14" />
+      <path
+         d="M4 0 l-4,4"
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         id="path16" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+    <symbol
+       id="_Closed">
+      <path
+         d="M -3.543307,1051.7717 0,1052.3622"
+         style="fill:none;stroke:#000000;stroke-linecap:round"
+         id="path22"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0,1052.3622 -3.543307,0.5906"
+         style="fill:none;stroke:#000000;stroke-linecap:round"
+         id="path24"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3.543307,1051.7717 0,1.1811"
+         style="fill:none;stroke:#000000;stroke-linecap:round"
+         id="path26"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0,1052.3622 -3.543307,0"
+         style="fill:none;stroke:#000000;stroke-linecap:round"
+         id="path28"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="DatumFilled45" />
+    <symbol
+       id="Filled-1">
+      <path
+         d="m -3.543307,1052.3622 3.543307,0"
+         style="fill:none;stroke:#000000"
+         id="path32"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M -3.543307,1052.7147 0,1052.3622"
+         style="fill:none;stroke:#000000"
+         id="path34"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0,1052.3622 -3.543307,-0.3525"
+         style="fill:none;stroke:#000000"
+         id="path36"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m -3.543307,1052.0097 0,0.705"
+         style="fill:none;stroke:#000000"
+         id="path38"
+         inkscape:connector-curvature="0" />
+    </symbol>
+    <symbol
+       id="Borders_Opendesk_7">
+      <path
+         d="m 10736.22,-4397.2441 -4181.1019,0"
+         style="fill:none;stroke:#000000"
+         id="path41"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6555.1181,-4397.2441 0,-8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path43"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12295.276,-12901.181 4181.102,0"
+         style="fill:none;stroke:#000000"
+         id="path45"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16476.378,-12901.181 0,8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path47"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16476.378,-4397.2441 -4181.102,0"
+         style="fill:none;stroke:#000000"
+         id="path49"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5775.5906,-3706.9812 0,-9442.2318"
+         style="fill:none;stroke:#000000"
+         id="path51"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 744.09449,-12972.047 4322.83461,0"
+         style="fill:none;stroke:#000000"
+         id="path53"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5066.9291,-12972.047 0,8645.669"
+         style="fill:none;stroke:#000000"
+         id="path55"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5066.9291,-4326.378 -4322.83461,0"
+         style="fill:none;stroke:#000000"
+         id="path57"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 744.09449,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#000000"
+         id="path59"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6484.252,-12972.047 4322.835,0"
+         style="fill:none;stroke:#000000"
+         id="path61"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10807.087,-12972.047 0,8645.669"
+         style="fill:none;stroke:#000000"
+         id="path63"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10807.087,-4326.378 -4322.835,0"
+         style="fill:none;stroke:#000000"
+         id="path65"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6484.252,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#000000"
+         id="path67"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12224.409,-12972.047 4322.835,0"
+         style="fill:none;stroke:#000000"
+         id="path69"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16547.244,-12972.047 0,8645.669"
+         style="fill:none;stroke:#000000"
+         id="path71"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16547.244,-4326.378 -4322.835,0"
+         style="fill:none;stroke:#000000"
+         id="path73"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12224.409,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#000000"
+         id="path75"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12295.276,-4397.2441 0,-8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path77"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 814.96063,-12901.181 4181.10237,0"
+         style="fill:none;stroke:#000000"
+         id="path79"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 4996.063,-12901.181 0,8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path81"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 4996.063,-4397.2441 -4181.10237,0"
+         style="fill:none;stroke:#000000"
+         id="path83"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 814.96063,-4397.2441 0,-8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path85"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6555.1181,-12901.181 4181.1019,0"
+         style="fill:none;stroke:#000000"
+         id="path87"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10736.22,-12901.181 0,8503.9369"
+         style="fill:none;stroke:#000000"
+         id="path89"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0,2115.3543 0,1052.3622"
+         style="fill:none;stroke:#000000"
+         id="path91"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0,1052.3622 -1062.9921,0"
+         style="fill:none;stroke:#000000"
+         id="path93"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 0,-13680.709 20834.646,0"
+         style="fill:none;stroke:#000000"
+         id="path95"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 20834.646,-13680.709 0,14733.0712"
+         style="fill:none;stroke:#000000"
+         id="path97"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 20834.646,1052.3622 0,1052.3622"
+         style="fill:none;stroke:#000000"
+         id="path99"
+         inkscape:connector-curvature="0" />
+      <path
+         d="M 0,1052.3622 0,-13680.709"
+         style="fill:none;stroke:#000000"
+         id="path101"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17501.575,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path103"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17372.612,-12660.751 a 64.481548,64.481548 0 0 0 128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path105"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17372.612,-12660.751 0,-98.554"
+         style="fill:none;stroke:#000000"
+         id="path107"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17501.575,-12759.305 a 64.481548,64.481548 0 0 0 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path109"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17344.488,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path111"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17344.488,-12660.751 a 92.605,92.605 0 0 0 185.21,0"
+         style="fill:none;stroke:#000000"
+         id="path113"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17529.698,-12660.751 0,-98.554"
+         style="fill:none;stroke:#000000"
+         id="path115"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17529.698,-12759.305 a 92.605,92.605 0 0 0 -185.21,0"
+         style="fill:none;stroke:#000000"
+         id="path117"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17779.257,-12759.305 a 64.481548,64.481548 0 0 0 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path119"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17779.257,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path121"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12660.751 a 64.481548,64.481548 0 0 0 128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path123"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12660.751 0,-98.554"
+         style="fill:none;stroke:#000000"
+         id="path125"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17807.38,-12759.305 a 92.604864,92.604864 0 0 0 -157.086,-66.467"
+         style="fill:none;stroke:#000000"
+         id="path127"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12825.772 0,-12.076"
+         style="fill:none;stroke:#000000"
+         id="path129"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12837.848 a 14.062,14.062 0 0 0 -28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path131"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17622.17,-12837.848 0,375.777"
+         style="fill:none;stroke:#000000"
+         id="path133"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17622.17,-12462.071 a 14.062,14.062 0 0 0 28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path135"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12462.071 0,-132.214"
+         style="fill:none;stroke:#000000"
+         id="path137"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17650.294,-12594.285 a 92.604864,92.604864 0 0 0 157.086,-66.466"
+         style="fill:none;stroke:#000000"
+         id="path139"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17807.38,-12660.751 0,-98.554"
+         style="fill:none;stroke:#000000"
+         id="path141"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18050.877,-12724.277 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path143"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17921.914,-12724.277 0,-35.028"
+         style="fill:none;stroke:#000000"
+         id="path145"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18050.877,-12759.305 a 64.481548,64.481548 0 0 0 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path147"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18050.877,-12759.305 0,35.028"
+         style="fill:none;stroke:#000000"
+         id="path149"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18079.001,-12759.305 a 92.605,92.605 0 0 0 -185.21,0"
+         style="fill:none;stroke:#000000"
+         id="path151"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17893.791,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path153"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17893.791,-12660.751 a 92.604864,92.604864 0 0 0 179.639,31.633"
+         style="fill:none;stroke:#000000"
+         id="path155"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18073.43,-12629.118 a 14.061873,14.061873 0 1 0 -26.432,-9.607"
+         style="fill:none;stroke:#000000"
+         id="path157"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17921.914,-12660.751 a 64.481548,64.481548 0 0 0 125.084,22.026"
+         style="fill:none;stroke:#000000"
+         id="path159"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17921.914,-12660.751 0,-35.403"
+         style="fill:none;stroke:#000000"
+         id="path161"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 17921.914,-12696.154 143.025,0"
+         style="fill:none;stroke:#000000"
+         id="path163"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18064.939,-12696.154 a 14.061658,14.061658 0 0 0 14.062,-14.061"
+         style="fill:none;stroke:#000000"
+         id="path165"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18079.001,-12710.215 0,-49.09"
+         style="fill:none;stroke:#000000"
+         id="path167"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18350.273,-12759.305 a 92.604864,92.604864 0 0 0 -157.086,-66.467"
+         style="fill:none;stroke:#000000"
+         id="path169"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18193.187,-12825.772 0,-12.076"
+         style="fill:none;stroke:#000000"
+         id="path171"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18193.187,-12837.848 a 14.062,14.062 0 0 0 -28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path173"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18165.063,-12837.848 0,255.64"
+         style="fill:none;stroke:#000000"
+         id="path175"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18165.063,-12582.208 a 14.062,14.062 0 0 0 28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path177"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18193.187,-12582.208 0,-177.097"
+         style="fill:none;stroke:#000000"
+         id="path179"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18322.15,-12759.305 a 64.481548,64.481548 0 0 0 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path181"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18322.15,-12759.305 0,177.097"
+         style="fill:none;stroke:#000000"
+         id="path183"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18322.15,-12582.208 a 14.061659,14.061659 0 0 0 28.123,0"
+         style="fill:none;stroke:#000000"
+         id="path185"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18350.273,-12582.208 0,-177.097"
+         style="fill:none;stroke:#000000"
+         id="path187"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18464.037,-12660.751 a 64.481548,64.481548 0 0 0 128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path189"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18464.037,-12660.751 0,-98.554"
+         style="fill:none;stroke:#000000"
+         id="path191"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12759.305 a 64.481548,64.481548 0 0 0 -128.963,0"
+         style="fill:none;stroke:#000000"
+         id="path193"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path195"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18435.914,-12660.751 a 92.604864,92.604864 0 0 0 157.086,66.466"
+         style="fill:none;stroke:#000000"
+         id="path197"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12594.285 0,12.077"
+         style="fill:none;stroke:#000000"
+         id="path199"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12582.208 a 14.062,14.062 0 0 0 28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path201"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18621.124,-12582.208 0,-375.778"
+         style="fill:none;stroke:#000000"
+         id="path203"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18621.124,-12957.986 a 14.062,14.062 0 0 0 -28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path205"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12957.986 0,132.214"
+         style="fill:none;stroke:#000000"
+         id="path207"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18593,-12825.772 a 92.604864,92.604864 0 0 0 -157.086,66.467"
+         style="fill:none;stroke:#000000"
+         id="path209"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18435.914,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path211"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18882.21,-12724.277 -128.964,0"
+         style="fill:none;stroke:#000000"
+         id="path213"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18753.246,-12724.277 0,-35.028"
+         style="fill:none;stroke:#000000"
+         id="path215"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18882.21,-12759.305 a 64.482,64.482 0 0 0 -128.964,0"
+         style="fill:none;stroke:#000000"
+         id="path217"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18882.21,-12759.305 0,35.028"
+         style="fill:none;stroke:#000000"
+         id="path219"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18910.333,-12759.305 a 92.605,92.605 0 0 0 -185.21,0"
+         style="fill:none;stroke:#000000"
+         id="path221"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18725.123,-12759.305 0,98.554"
+         style="fill:none;stroke:#000000"
+         id="path223"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18725.123,-12660.751 a 92.604864,92.604864 0 0 0 179.639,31.633"
+         style="fill:none;stroke:#000000"
+         id="path225"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18904.762,-12629.118 a 14.061658,14.061658 0 1 0 -26.431,-9.607"
+         style="fill:none;stroke:#000000"
+         id="path227"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18753.246,-12660.751 a 64.481548,64.481548 0 0 0 125.085,22.026"
+         style="fill:none;stroke:#000000"
+         id="path229"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18753.246,-12660.751 0,-35.403"
+         style="fill:none;stroke:#000000"
+         id="path231"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18753.246,-12696.154 143.025,0"
+         style="fill:none;stroke:#000000"
+         id="path233"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18896.271,-12696.154 a 14.061658,14.061658 0 0 0 14.062,-14.061"
+         style="fill:none;stroke:#000000"
+         id="path235"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18910.333,-12710.215 0,-49.09"
+         style="fill:none;stroke:#000000"
+         id="path237"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19134.314,-12838.427 a 95.46117,95.46117 0 0 0 -15.944,-7.009"
+         style="fill:none;stroke:#000000"
+         id="path239"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19118.37,-12845.436 a 108.71541,108.71541 0 0 0 -16.94,-4.19"
+         style="fill:none;stroke:#000000"
+         id="path241"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19101.43,-12849.626 a 160.35775,160.35775 0 0 0 -25.886,-2.103"
+         style="fill:none;stroke:#000000"
+         id="path243"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19075.544,-12851.729 a 113.88134,113.88134 0 0 0 -42.11,8.071"
+         style="fill:none;stroke:#000000"
+         id="path245"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19033.434,-12843.658 a 84.929847,84.929847 0 0 0 -20.786,11.909"
+         style="fill:none;stroke:#000000"
+         id="path247"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19012.648,-12831.749 a 67.303671,67.303671 0 0 0 -9.427,8.931"
+         style="fill:none;stroke:#000000"
+         id="path249"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19003.221,-12822.818 a 67.303671,67.303671 0 0 0 -7.066,9.771"
+         style="fill:none;stroke:#000000"
+         id="path251"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18996.155,-12813.047 a 59.971263,59.971263 0 0 0 -6.242,16.077"
+         style="fill:none;stroke:#000000"
+         id="path253"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18989.913,-12796.97 a 64.760058,64.760058 0 0 0 26.767,68.053"
+         style="fill:none;stroke:#000000"
+         id="path255"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19016.68,-12728.917 a 95.147108,95.147108 0 0 0 17.908,9.533"
+         style="fill:none;stroke:#000000"
+         id="path257"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19034.588,-12719.384 a 159.15257,159.15257 0 0 0 25.042,7.745"
+         style="fill:none;stroke:#000000"
+         id="path259"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19089.292,-12704.718 a 1298.7475,1298.7475 0 0 0 -29.662,-6.921"
+         style="fill:none;stroke:#000000"
+         id="path261"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19115.031,-12696.686 a 219.25726,219.25726 0 0 0 -25.739,-8.032"
+         style="fill:none;stroke:#000000"
+         id="path263"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19136.874,-12680.838 a 51.771376,51.771376 0 0 0 -21.843,-15.848"
+         style="fill:none;stroke:#000000"
+         id="path265"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19142.457,-12670.449 a 31.841694,31.841694 0 0 0 -5.583,-10.389"
+         style="fill:none;stroke:#000000"
+         id="path267"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19142.896,-12634.211 a 62.368646,62.368646 0 0 0 -0.439,-36.238"
+         style="fill:none;stroke:#000000"
+         id="path269"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19121.374,-12607.631 a 44.128503,44.128503 0 0 0 21.522,-26.58"
+         style="fill:none;stroke:#000000"
+         id="path271"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19038.938,-12603.197 a 97.219537,97.219537 0 0 0 82.436,-4.434"
+         style="fill:none;stroke:#000000"
+         id="path273"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19003.736,-12636.755 a 66.102913,66.102913 0 0 0 35.202,33.558"
+         style="fill:none;stroke:#000000"
+         id="path275"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19003.736,-12636.755 a 14.062021,14.062021 0 0 0 -25.533,11.791"
+         style="fill:none;stroke:#000000"
+         id="path277"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 18978.203,-12624.964 a 94.22623,94.22623 0 0 0 50.179,47.834"
+         style="fill:none;stroke:#000000"
+         id="path279"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19028.382,-12577.13 a 125.34285,125.34285 0 0 0 106.283,-5.716"
+         style="fill:none;stroke:#000000"
+         id="path281"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19134.665,-12582.846 a 72.25182,72.25182 0 0 0 35.238,-43.521"
+         style="fill:none;stroke:#000000"
+         id="path283"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19169.903,-12626.367 a 90.491963,90.491963 0 0 0 -0.636,-52.578"
+         style="fill:none;stroke:#000000"
+         id="path285"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19169.267,-12678.945 a 59.965011,59.965011 0 0 0 -10.515,-19.565"
+         style="fill:none;stroke:#000000"
+         id="path287"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19158.752,-12698.51 a 79.894693,79.894693 0 0 0 -33.708,-24.457"
+         style="fill:none;stroke:#000000"
+         id="path289"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19125.044,-12722.967 a 247.38057,247.38057 0 0 0 -29.042,-9.062"
+         style="fill:none;stroke:#000000"
+         id="path291"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19096.002,-12732.029 a 1326.8708,1326.8708 0 0 0 -30.303,-7.071"
+         style="fill:none;stroke:#000000"
+         id="path293"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19045.082,-12745.476 a 131.02925,131.02925 0 0 0 20.617,6.376"
+         style="fill:none;stroke:#000000"
+         id="path295"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19032.467,-12752.192 a 67.023791,67.023791 0 0 0 12.615,6.716"
+         style="fill:none;stroke:#000000"
+         id="path297"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19017.204,-12790.138 a 36.617638,36.617638 0 0 0 15.263,37.946"
+         style="fill:none;stroke:#000000"
+         id="path299"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19020.49,-12798.944 a 31.847946,31.847946 0 0 0 -3.286,8.806"
+         style="fill:none;stroke:#000000"
+         id="path301"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19024.442,-12804.363 a 39.180354,39.180354 0 0 0 -3.952,5.419"
+         style="fill:none;stroke:#000000"
+         id="path303"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19029.93,-12809.562 a 39.180354,39.180354 0 0 0 -5.488,5.199"
+         style="fill:none;stroke:#000000"
+         id="path305"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19043.833,-12817.528 a 56.80653,56.80653 0 0 0 -13.903,7.966"
+         style="fill:none;stroke:#000000"
+         id="path307"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19075.544,-12823.606 a 85.758027,85.758027 0 0 0 -31.711,6.078"
+         style="fill:none;stroke:#000000"
+         id="path309"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19096.89,-12821.872 a 132.23444,132.23444 0 0 0 -21.346,-1.734"
+         style="fill:none;stroke:#000000"
+         id="path311"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19109.448,-12818.765 a 80.592093,80.592093 0 0 0 -12.558,-3.107"
+         style="fill:none;stroke:#000000"
+         id="path313"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19120.694,-12813.821 a 67.337853,67.337853 0 0 0 -11.246,-4.944"
+         style="fill:none;stroke:#000000"
+         id="path315"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19134.182,-12803.992 a 67.337853,67.337853 0 0 0 -13.488,-9.829"
+         style="fill:none;stroke:#000000"
+         id="path317"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19134.182,-12803.992 a 14.061721,14.061721 0 0 0 19.253,-20.5"
+         style="fill:none;stroke:#000000"
+         id="path319"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19153.435,-12824.492 a 95.46117,95.46117 0 0 0 -19.121,-13.935"
+         style="fill:none;stroke:#000000"
+         id="path321"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19343.364,-12717.061 81.376,141.85"
+         style="fill:none;stroke:#000000"
+         id="path323"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19424.74,-12575.211 a 14.061658,14.061658 0 1 0 24.394,-13.994"
+         style="fill:none;stroke:#000000"
+         id="path325"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19449.134,-12589.205 -85.62,-149.249"
+         style="fill:none;stroke:#000000"
+         id="path327"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19363.514,-12738.454 81.802,-86.846"
+         style="fill:none;stroke:#000000"
+         id="path329"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19445.316,-12825.3 a 14.0618,14.0618 0 0 0 -20.472,-19.283"
+         style="fill:none;stroke:#000000"
+         id="path331"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19424.844,-12844.583 -133.77,142.021"
+         style="fill:none;stroke:#000000"
+         id="path333"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19291.074,-12702.562 0,-255.424"
+         style="fill:none;stroke:#000000"
+         id="path335"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19291.074,-12957.986 a 14.062,14.062 0 0 0 -28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path337"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19262.95,-12957.986 0,375.778"
+         style="fill:none;stroke:#000000"
+         id="path339"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19262.95,-12582.208 a 14.062,14.062 0 0 0 28.124,0"
+         style="fill:none;stroke:#000000"
+         id="path341"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19291.074,-12582.208 0,-79.337"
+         style="fill:none;stroke:#000000"
+         id="path343"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19291.074,-12661.545 52.29,-55.516"
+         style="fill:none;stroke:#000000"
+         id="path345"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19983.863,-12770.097 a 201.9505,201.9505 0 1 0 -403.901,0 201.9505,201.9505 0 1 0 403.901,0 z"
+         style="fill:none;stroke:#000000"
+         id="path347"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19678.355,-12800.491 0,78.427"
+         style="fill:none;stroke:#000000"
+         id="path349"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19678.355,-12722.064 53.485,-56.895"
+         style="fill:none;stroke:#000000"
+         id="path351"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19731.84,-12778.959 -53.485,-21.532"
+         style="fill:none;stroke:#000000"
+         id="path353"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19825.618,-12662.78 57.799,-61.485"
+         style="fill:none;stroke:#000000"
+         id="path355"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19883.417,-12724.265 0,-86.351"
+         style="fill:none;stroke:#000000"
+         id="path357"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19883.417,-12810.616 -57.799,61.485"
+         style="fill:none;stroke:#000000"
+         id="path359"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19825.618,-12749.131 0,86.351"
+         style="fill:none;stroke:#000000"
+         id="path361"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19816.406,-12760.671 61.67,-65.603"
+         style="fill:none;stroke:#000000"
+         id="path363"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19878.076,-12826.274 -132.709,-53.426"
+         style="fill:none;stroke:#000000"
+         id="path365"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19745.367,-12879.7 -61.671,65.603"
+         style="fill:none;stroke:#000000"
+         id="path367"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19683.696,-12814.097 132.71,53.426"
+         style="fill:none;stroke:#000000"
+         id="path369"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19896.05,-12716.364 a 7.308071,7.308071 0 0 0 1.984,-5.006"
+         style="fill:none;stroke:#000000"
+         id="path371"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19898.034,-12721.37 0,-107.69"
+         style="fill:none;stroke:#000000"
+         id="path373"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19898.034,-12829.06 a 7.308071,7.308071 0 0 0 -4.579,-6.779"
+         style="fill:none;stroke:#000000"
+         id="path375"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19893.455,-12835.839 -147.263,-59.285"
+         style="fill:none;stroke:#000000"
+         id="path377"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19746.192,-12895.124 a 7.308071,7.308071 0 0 0 -8.054,1.774"
+         style="fill:none;stroke:#000000"
+         id="path379"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19738.138,-12893.35 -72.416,77.033"
+         style="fill:none;stroke:#000000"
+         id="path381"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19665.722,-12816.317 a 7.308071,7.308071 0 0 0 -1.983,5.006"
+         style="fill:none;stroke:#000000"
+         id="path383"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19663.739,-12811.311 0,107.69"
+         style="fill:none;stroke:#000000"
+         id="path385"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19663.739,-12703.621 a 7.308071,7.308071 0 0 0 12.633,5.006"
+         style="fill:none;stroke:#000000"
+         id="path387"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19676.372,-12698.615 70.021,-74.486"
+         style="fill:none;stroke:#000000"
+         id="path389"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19746.393,-12773.101 64.608,26.01"
+         style="fill:none;stroke:#000000"
+         id="path391"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19811.001,-12747.091 0,102.755"
+         style="fill:none;stroke:#000000"
+         id="path393"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19811.001,-12644.336 a 7.308071,7.308071 0 0 0 12.633,5.005"
+         style="fill:none;stroke:#000000"
+         id="path395"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19823.634,-12639.331 72.416,-77.033"
+         style="fill:none;stroke:#000000"
+         id="path397"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 19969.246,-12770.097 a 187.33423,187.33423 0 1 0 -374.668,0 187.33423,187.33423 0 1 0 374.668,0 z"
+         style="fill:none;stroke:#000000"
+         id="path399"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 744.09449,-12972.047 4322.83461,0"
+         style="fill:none;stroke:#00ff00"
+         id="path401"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5066.9291,-12972.047 0,8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path403"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 5066.9291,-4326.378 -4322.83461,0"
+         style="fill:none;stroke:#00ff00"
+         id="path405"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 744.09449,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path407"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6484.252,-12972.047 4322.835,0"
+         style="fill:none;stroke:#00ff00"
+         id="path409"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10807.087,-12972.047 0,8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path411"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 10807.087,-4326.378 -4322.835,0"
+         style="fill:none;stroke:#00ff00"
+         id="path413"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 6484.252,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path415"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12224.409,-12972.047 4322.835,0"
+         style="fill:none;stroke:#00ff00"
+         id="path417"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16547.244,-12972.047 0,8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path419"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 16547.244,-4326.378 -4322.835,0"
+         style="fill:none;stroke:#00ff00"
+         id="path421"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 12224.409,-4326.378 0,-8645.669"
+         style="fill:none;stroke:#00ff00"
+         id="path423"
+         inkscape:connector-curvature="0" />
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12224.409"
+         y="-3261.3374"
+         sodipodi:linespacing="125%"
+         id="text425">
+        <tspan
+           sodipodi:role="line"
+           id="tspan427"
+           x="12224.409"
+           y="-3261.3374">SUMMARY TERMS AND CONDITIONS</tspan>
+      </text>
+      <text
+         style="font-size:106.30000305px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12224.409"
+         y="-3983.8108"
+         sodipodi:linespacing="125%"
+         id="text429">
+        <tspan
+           sodipodi:role="line"
+           id="tspan431"
+           x="12224.409"
+           y="-3983.8108">BOTH FACES</tspan>
+      </text>
+      <text
+         style="font-size:106.30000305px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6484.252"
+         y="-3983.8108"
+         sodipodi:linespacing="125%"
+         id="text433">
+        <tspan
+           sodipodi:role="line"
+           id="tspan435"
+           x="6484.252"
+           y="-3983.8108">REVERSE FACE</tspan>
+      </text>
+      <text
+         style="font-size:106.30000305px;line-height:125%;font-family:Arial;fill:#000000"
+         x="744.09448"
+         y="-3983.8108"
+         sodipodi:linespacing="125%"
+         id="text437">
+        <tspan
+           sodipodi:role="line"
+           id="tspan439"
+           x="744.09448"
+           y="-3983.8108">FRONT FACE</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6484.252"
+         y="-3261.3374"
+         sodipodi:linespacing="125%"
+         id="text441">
+        <tspan
+           sodipodi:role="line"
+           id="tspan443"
+           x="6484.252"
+           y="-3261.3374">FABRICATION GUIDELINES</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="744.09448"
+         y="-3261.3374"
+         sodipodi:linespacing="125%"
+         id="text445">
+        <tspan
+           sodipodi:role="line"
+           id="tspan447"
+           x="744.09448"
+           y="-3261.3374">USING THIS DRAWING</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-3038.9626"
+         sodipodi:linespacing="125%"
+         id="text449">
+        <tspan
+           sodipodi:role="line"
+           id="tspan451"
+           x="12218.993"
+           y="-3038.9626">This file represents the latest version of an open source product, designed to be CNC-milled from standard sheet</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2938.5691"
+         sodipodi:linespacing="125%"
+         id="text453">
+        <tspan
+           sodipodi:role="line"
+           id="tspan455"
+           x="12218.993"
+           y="-2938.5691">materials. Whilst Opendesk make every effort to provide fully prototyped and tested designs, it is the responsiblity of</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2838.1753"
+         sodipodi:linespacing="125%"
+         id="text457">
+        <tspan
+           sodipodi:role="line"
+           id="tspan459"
+           x="12218.993"
+           y="-2838.1753">the end user (maker) to check file contents prior to fabrication, and ensure suitable due diligence and reasonable skill</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2737.7815"
+         sodipodi:linespacing="125%"
+         id="text461">
+        <tspan
+           sodipodi:role="line"
+           id="tspan463"
+           x="12218.993"
+           y="-2737.7815">and care in fabrication and assembly.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2536.9941"
+         sodipodi:linespacing="125%"
+         id="text465">
+        <tspan
+           sodipodi:role="line"
+           id="tspan467"
+           x="12218.993"
+           y="-2536.9941">All Opendesk designs are open source and provided as is. Opendesk cannot accept any liability for any error or</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2436.6006"
+         sodipodi:linespacing="125%"
+         id="text469">
+        <tspan
+           sodipodi:role="line"
+           id="tspan471"
+           x="12218.993"
+           y="-2436.6006">omission in the information contained herein. Opendesk accepts no design liability, and provides no guarantee of</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12221.176"
+         y="-2336.2068"
+         sodipodi:linespacing="125%"
+         id="text473">
+        <tspan
+           sodipodi:role="line"
+           id="tspan475"
+           x="12221.176"
+           y="-2336.2068">quality or warranty of fitness for purpose on any open product in the Opendesk library.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-2135.4194"
+         sodipodi:linespacing="125%"
+         id="text477">
+        <tspan
+           sodipodi:role="line"
+           id="tspan479"
+           x="12218.993"
+           y="-2135.4194">By using this file you agree to the following:</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-1934.632"
+         sodipodi:linespacing="125%"
+         id="text481">
+        <tspan
+           sodipodi:role="line"
+           id="tspan483"
+           x="12218.993"
+           y="-1934.632">- You expressly agree to hold harmless all Opendesk designers or employees for any property damage, personal injury,</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12221.176"
+         y="-1834.2383"
+         sodipodi:linespacing="125%"
+         id="text485">
+        <tspan
+           sodipodi:role="line"
+           id="tspan487"
+           x="12221.176"
+           y="-1834.2383">death, fiduciary loss, or any other loss or damage arising out of the use of this digital file and its contents, or</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12220.925"
+         y="-1733.8446"
+         sodipodi:linespacing="125%"
+         id="text489">
+        <tspan
+           sodipodi:role="line"
+           id="tspan491"
+           x="12220.925"
+           y="-1733.8446">subsequent physical products fabricated from the information contained herein.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-1533.0571"
+         sodipodi:linespacing="125%"
+         id="text493">
+        <tspan
+           sodipodi:role="line"
+           id="tspan495"
+           x="12218.993"
+           y="-1533.0571">- You agree that the information provided in this file is to be used at your own risk, without any guarantee of quality</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-1432.6635"
+         sodipodi:linespacing="125%"
+         id="text497">
+        <tspan
+           sodipodi:role="line"
+           id="tspan499"
+           x="12218.993"
+           y="-1432.6635">or warranty expressly made.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-1231.8761"
+         sodipodi:linespacing="125%"
+         id="text501">
+        <tspan
+           sodipodi:role="line"
+           id="tspan503"
+           x="12218.993"
+           y="-1231.8761">- You agree to indemnify Opendesk, its designers and employees against any damages, losses, obligations, liabilities,</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12221.176"
+         y="-1131.4824"
+         sodipodi:linespacing="125%"
+         id="text505">
+        <tspan
+           sodipodi:role="line"
+           id="tspan507"
+           x="12221.176"
+           y="-1131.4824">costs and expenses arising from the use of Opendesk designs or any derivative designs permitted under the associated</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12220.24"
+         y="-1031.0886"
+         sodipodi:linespacing="125%"
+         id="text509">
+        <tspan
+           sodipodi:role="line"
+           id="tspan511"
+           x="12220.24"
+           y="-1031.0886">license of use.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-729.90753"
+         sodipodi:linespacing="125%"
+         id="text513">
+        <tspan
+           sodipodi:role="line"
+           id="tspan515"
+           x="12218.993"
+           y="-729.90753">We hope you enjoy your Opendesk product! Please feel free to notify us of any errors or omissions, share back any</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-629.51385"
+         sodipodi:linespacing="125%"
+         id="text517">
+        <tspan
+           sodipodi:role="line"
+           id="tspan519"
+           x="12218.993"
+           y="-629.51385">feedback or developments on this design, or ask a question by emailing us on hello@opendesk.cc.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="12218.993"
+         y="-428.72647"
+         sodipodi:linespacing="125%"
+         id="text521">
+        <tspan
+           sodipodi:role="line"
+           id="tspan523"
+           x="12218.993"
+           y="-428.72647">Welcome to the industrial revolution and thanks for trailblazing!</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-3038.9626"
+         sodipodi:linespacing="125%"
+         id="text525">
+        <tspan
+           sodipodi:role="line"
+           id="tspan527"
+           x="6479.5376"
+           y="-3038.9626">Before starting to cut your product please take account of the following guidelines. These reflect our personal</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2938.5691"
+         sodipodi:linespacing="125%"
+         id="text529">
+        <tspan
+           sodipodi:role="line"
+           id="tspan531"
+           x="6479.5376"
+           y="-2938.5691">research and learning and are by no means comprehensive. Please let us know if you have any recommendations for</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2838.1753"
+         sodipodi:linespacing="125%"
+         id="text533">
+        <tspan
+           sodipodi:role="line"
+           id="tspan535"
+           x="6479.5376"
+           y="-2838.1753">improved standards, and/or cutting methods:</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2637.3879"
+         sodipodi:linespacing="125%"
+         id="text537">
+        <tspan
+           sodipodi:role="line"
+           id="tspan539"
+           x="6479.5376"
+           y="-2637.3879">- Every CNC-machine is slightly different, you should follow your machine manufacturer's guidelines for best practice,</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2536.9941"
+         sodipodi:linespacing="125%"
+         id="text541">
+        <tspan
+           sodipodi:role="line"
+           id="tspan543"
+           x="6479.5376"
+           y="-2536.9941">and consult your supplier for suitable drill bits and other recommendations. In our experience the best quality finish is</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2436.6006"
+         sodipodi:linespacing="125%"
+         id="text545">
+        <tspan
+           sodipodi:role="line"
+           id="tspan547"
+           x="6479.5376"
+           y="-2436.6006">achieved using a suitable vacuum bed to prevent material slippage, and a compression cutter to prevent splintering of</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2336.2068"
+         sodipodi:linespacing="125%"
+         id="text549">
+        <tspan
+           sodipodi:role="line"
+           id="tspan551"
+           x="6479.5376"
+           y="-2336.2068">the surface of the material, however these will not always be available and such details are left to the discretion and</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.4092"
+         y="-2235.813"
+         sodipodi:linespacing="125%"
+         id="text553">
+        <tspan
+           sodipodi:role="line"
+           id="tspan555"
+           x="6481.4092"
+           y="-2235.813">experience of the fabricator.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-2035.0256"
+         sodipodi:linespacing="125%"
+         id="text557">
+        <tspan
+           sodipodi:role="line"
+           id="tspan559"
+           x="6479.5376"
+           y="-2035.0256">- It is strongly recommended that you perform some test cuts using the appropriate material prior to fabrication, to</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.7207"
+         y="-1934.632"
+         sodipodi:linespacing="125%"
+         id="text561">
+        <tspan
+           sodipodi:role="line"
+           id="tspan563"
+           x="6481.7207"
+           y="-1934.632">calibrate for suitable tolerance and bit size. A test sheet is included with this download package. The test file includes</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.4692"
+         y="-1834.2383"
+         sodipodi:linespacing="125%"
+         id="text565">
+        <tspan
+           sodipodi:role="line"
+           id="tspan567"
+           x="6481.4692"
+           y="-1834.2383">some of the standard Opendesk joints of different types in three varying degrees of tolerance to account for</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-1733.8446"
+         sodipodi:linespacing="125%"
+         id="text569">
+        <tspan
+           sodipodi:role="line"
+           id="tspan571"
+           x="6479.5376"
+           y="-1733.8446">variations in material thickness (+/- 1%). Please refer to the test sheet guidelines for more information.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-1533.0571"
+         sodipodi:linespacing="125%"
+         id="text573">
+        <tspan
+           sodipodi:role="line"
+           id="tspan575"
+           x="6479.5376"
+           y="-1533.0571">- It is highly recommended that you accurately measure the thickness of sheet you are using prior to fabrication, for</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.4092"
+         y="-1432.6635"
+         sodipodi:linespacing="125%"
+         id="text577">
+        <tspan
+           sodipodi:role="line"
+           id="tspan579"
+           x="6481.4092"
+           y="-1432.6635">example using calipers at several points along the sheet. For best results ensure your sheet is adequately flat and</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-1332.2698"
+         sodipodi:linespacing="125%"
+         id="text581">
+        <tspan
+           sodipodi:role="line"
+           id="tspan583"
+           x="6479.5376"
+           y="-1332.2698">free of any warping, knots, or imperfections.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-1131.4824"
+         sodipodi:linespacing="125%"
+         id="text585">
+        <tspan
+           sodipodi:role="line"
+           id="tspan587"
+           x="6479.5376"
+           y="-1131.4824">- When performing double-side cuts it is important to locate the flipped sheet exactly, to ensure cuts to both faces</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-1031.0886"
+         sodipodi:linespacing="125%"
+         id="text589">
+        <tspan
+           sodipodi:role="line"
+           id="tspan591"
+           x="6479.5376"
+           y="-1031.0886">align correctly. This can be achieved using a suitable jig or locating pucks/noggins according to your machine bed.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-930.69495"
+         sodipodi:linespacing="125%"
+         id="text593">
+        <tspan
+           sodipodi:role="line"
+           id="tspan595"
+           x="6479.5376"
+           y="-930.69495">For more information consult the guidance on www.opendesk.cc.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-729.90753"
+         sodipodi:linespacing="125%"
+         id="text597">
+        <tspan
+           sodipodi:role="line"
+           id="tspan599"
+           x="6479.5376"
+           y="-729.90753">- Inside cuts may produce off-cut pieces that can vibrate out of place and interfere with cutting. It is recommended to</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.4692"
+         y="-629.51385"
+         sodipodi:linespacing="125%"
+         id="text601">
+        <tspan
+           sodipodi:role="line"
+           id="tspan603"
+           x="6481.4692"
+           y="-629.51385">secure such pieces to the bed prior to cutting for removal afterwards.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-428.72647"
+         sodipodi:linespacing="125%"
+         id="text605">
+        <tspan
+           sodipodi:role="line"
+           id="tspan607"
+           x="6479.5376"
+           y="-428.72647">- Where designs include chamfering and pocketing it is strongly advisable to start with these cuts prior to full-depth</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6481.7207"
+         y="-328.33276"
+         sodipodi:linespacing="125%"
+         id="text609">
+        <tspan
+           sodipodi:role="line"
+           id="tspan611"
+           x="6481.7207"
+           y="-328.33276">cut-outs in order to avoid any slippage and misalignment in the material.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-127.54536"
+         sodipodi:linespacing="125%"
+         id="text613">
+        <tspan
+           sodipodi:role="line"
+           id="tspan615"
+           x="6479.5376"
+           y="-127.54536">- Each Opendesk part can be cut using single of multi-pass cutting. Slower speeds and multiple passes will tend to</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="-27.151651"
+         sodipodi:linespacing="125%"
+         id="text617">
+        <tspan
+           sodipodi:role="line"
+           id="tspan619"
+           x="6479.5376"
+           y="-27.151651">produce higher quality cuts and reduce the need for sanding and finishing at the expense of cutting time. This is left to</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="6479.5376"
+         y="73.24205"
+         sodipodi:linespacing="125%"
+         id="text621">
+        <tspan
+           sodipodi:role="line"
+           id="tspan623"
+           x="6479.5376"
+           y="73.24205">the discretion of the user based on their time and machine.</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-11730.68"
+         sodipodi:linespacing="125%"
+         id="text625">
+        <tspan
+           sodipodi:role="line"
+           id="tspan627"
+           x="17344.488"
+           y="-11730.68">Fileset:</tspan>
+      </text>
+      <text
+         style="font-size:106.30000305px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-12132.062"
+         sodipodi:linespacing="125%"
+         id="text629">
+        <tspan
+           sodipodi:role="line"
+           id="tspan631"
+           x="17344.488"
+           y="-12132.062">Regaliz Slim Chair</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17847.236"
+         y="-11553.052"
+         sodipodi:linespacing="125%"
+         id="text633">
+        <tspan
+           sodipodi:role="line"
+           id="tspan635"
+           x="17847.236"
+           y="-11553.052">Sheet 1</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17847.236"
+         y="-11730.643"
+         sodipodi:linespacing="125%"
+         id="text637">
+        <tspan
+           sodipodi:role="line"
+           id="tspan639"
+           x="17847.236"
+           y="-11730.643">410x507x755_SA_AP @ 3.0.0</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-11908.833"
+         sodipodi:linespacing="125%"
+         id="text641">
+        <tspan
+           sodipodi:role="line"
+           id="tspan643"
+           x="17344.488"
+           y="-11908.833">Product:</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17847.236"
+         y="-11908.841"
+         sodipodi:linespacing="125%"
+         id="text645">
+        <tspan
+           sodipodi:role="line"
+           id="tspan647"
+           x="17847.236"
+           y="-11908.841">Standard</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10595.769"
+         sodipodi:linespacing="125%"
+         id="text649">
+        <tspan
+           sodipodi:role="line"
+           id="tspan651"
+           x="17344.488"
+           y="-10595.769">Recommended drill bit (unless otherwise noted):</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="19117.822"
+         y="-10595.769"
+         sodipodi:linespacing="125%"
+         id="text653">
+        <tspan
+           sodipodi:role="line"
+           id="tspan655"
+           x="19117.822"
+           y="-10595.769">6mm (1/4&quot;)</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17958.627"
+         y="-10702.067"
+         sodipodi:linespacing="125%"
+         id="text657">
+        <tspan
+           sodipodi:role="line"
+           id="tspan659"
+           x="17958.627"
+           y="-10702.067">Nonemm</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17650.826"
+         y="-10170.539"
+         sodipodi:linespacing="125%"
+         id="text661">
+        <tspan
+           sodipodi:role="line"
+           id="tspan663"
+           x="17650.826"
+           y="-10170.539">Creative Commons - Attribution</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10064.239"
+         sodipodi:linespacing="125%"
+         id="text665">
+        <tspan
+           sodipodi:role="line"
+           id="tspan667"
+           x="17344.488"
+           y="-10064.239">For full terms:</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17897.568"
+         y="-10064.239"
+         sodipodi:linespacing="125%"
+         id="text669">
+        <tspan
+           sodipodi:role="line"
+           id="tspan671"
+           x="17897.568"
+           y="-10064.239">https://creativecommons.org/licenses/by/4.0/</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-3038.9626"
+         sodipodi:linespacing="125%"
+         id="text673">
+        <tspan
+           sodipodi:role="line"
+           id="tspan675"
+           x="735.05908"
+           y="-3038.9626">Opendesk products are designed to be CNC-milled from standard sheet materials such as plywood. This file as provided</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2938.5691"
+         sodipodi:linespacing="125%"
+         id="text677">
+        <tspan
+           sodipodi:role="line"
+           id="tspan679"
+           x="735.05908"
+           y="-2938.5691">is mastered for use with the recommended sheet material specification, sheet sizes and thicknesses, and bit sizes</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2838.1753"
+         sodipodi:linespacing="125%"
+         id="text681">
+        <tspan
+           sodipodi:role="line"
+           id="tspan683"
+           x="735.05908"
+           y="-2838.1753">provided, however the exact materials being used, tolerances, drill bits, and other local considerations are at the</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="737.24225"
+         y="-2737.7815"
+         sodipodi:linespacing="125%"
+         id="text685">
+        <tspan
+           sodipodi:role="line"
+           id="tspan687"
+           x="737.24225"
+           y="-2737.7815">discretion of the end user (maker). If you are working with variations on these you may need to reposition and nest</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2637.3879"
+         sodipodi:linespacing="125%"
+         id="text689">
+        <tspan
+           sodipodi:role="line"
+           id="tspan691"
+           x="735.05908"
+           y="-2637.3879">parts within your own sheet frames accordingly, and take account of any changes in tolerance particularly on joints,</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2536.9941"
+         sodipodi:linespacing="125%"
+         id="text693">
+        <tspan
+           sodipodi:role="line"
+           id="tspan695"
+           x="735.05908"
+           y="-2536.9941">tabs, and slots prior to cutting.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2336.2068"
+         sodipodi:linespacing="125%"
+         id="text697">
+        <tspan
+           sodipodi:role="line"
+           id="tspan699"
+           x="735.05908"
+           y="-2336.2068">All Opendesk drawings are drawn in 'Top' projection, and all vectors are arranged into suitably named layers describing</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2235.813"
+         sodipodi:linespacing="125%"
+         id="text701">
+        <tspan
+           sodipodi:role="line"
+           id="tspan703"
+           x="735.05908"
+           y="-2235.813">the type and depth of cut required. All such cut depths are assumed to be measured from the top (maximum z-index)</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="736.99066"
+         y="-2135.4194"
+         sodipodi:linespacing="125%"
+         id="text705">
+        <tspan
+           sodipodi:role="line"
+           id="tspan707"
+           x="736.99066"
+           y="-2135.4194">surface of the material. For example the layer 'TOP-POCKET-INSIDE_14MM' describes a pocketing inside-line cut of</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-2035.0256"
+         sodipodi:linespacing="125%"
+         id="text709">
+        <tspan
+           sodipodi:role="line"
+           id="tspan711"
+           x="735.05908"
+           y="-2035.0256">depth 14mm from the top surface of the material.*</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-1834.2383"
+         sodipodi:linespacing="125%"
+         id="text713">
+        <tspan
+           sodipodi:role="line"
+           id="tspan715"
+           x="735.05908"
+           y="-1834.2383">All Opendesk drawings are provided in dxf format. After importing into your CNC-machine's CAM software you will need</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-1733.8446"
+         sodipodi:linespacing="125%"
+         id="text717">
+        <tspan
+           sodipodi:role="line"
+           id="tspan719"
+           x="735.05908"
+           y="-1733.8446">to ensure that all vectors are visible and all polylines are closed where necessary. A pdf version of the drawing is</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-1633.4508"
+         sodipodi:linespacing="125%"
+         id="text721">
+        <tspan
+           sodipodi:role="line"
+           id="tspan723"
+           x="735.05908"
+           y="-1633.4508">provided with each download for reference.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-1432.6635"
+         sodipodi:linespacing="125%"
+         id="text725">
+        <tspan
+           sodipodi:role="line"
+           id="tspan727"
+           x="735.05908"
+           y="-1432.6635">Layers with names beginning '00_NOPRINT' should not be milled. For convenience you can turn these layers off or</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="737.24225"
+         y="-1332.2698"
+         sodipodi:linespacing="125%"
+         id="text729">
+        <tspan
+           sodipodi:role="line"
+           id="tspan731"
+           x="737.24225"
+           y="-1332.2698">delete their elements before setting up your CAM software.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-1131.4824"
+         sodipodi:linespacing="125%"
+         id="text733">
+        <tspan
+           sodipodi:role="line"
+           id="tspan735"
+           x="735.05908"
+           y="-1131.4824">Most Opendesk products require some combination of 'inside cuts', and 'outside cuts', and in some instances 'on-line</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="737.24225"
+         y="-1031.0886"
+         sodipodi:linespacing="125%"
+         id="text737">
+        <tspan
+           sodipodi:role="line"
+           id="tspan739"
+           x="737.24225"
+           y="-1031.0886">cuts', 'pocketing', or 'chamfering'. Some Opendesk products require double-side cutting (ie cutting to both front and</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-930.69495"
+         sodipodi:linespacing="125%"
+         id="text741">
+        <tspan
+           sodipodi:role="line"
+           id="tspan743"
+           x="735.05908"
+           y="-930.69495">reverse faces of a single sheet). As a result each sheet is drawn in 'Front Face', 'Reverse Face', and 'Both Faces'</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="736.30658"
+         y="-830.30127"
+         sodipodi:linespacing="125%"
+         id="text745">
+        <tspan
+           sodipodi:role="line"
+           id="tspan747"
+           x="736.30658"
+           y="-830.30127">layouts, with corresponding layers and vectors in each for you to choose your preferred setup according to your</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="737.86603"
+         y="-729.90753"
+         sodipodi:linespacing="125%"
+         id="text749">
+        <tspan
+           sodipodi:role="line"
+           id="tspan751"
+           x="737.86603"
+           y="-729.90753">CNC-software and machine.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-529.12018"
+         sodipodi:linespacing="125%"
+         id="text753">
+        <tspan
+           sodipodi:role="line"
+           id="tspan755"
+           x="735.05908"
+           y="-529.12018">A minimum of 15mm tolerance is left between parts on Opendesk sheets when nested. This should be sufficient for most</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="735.05908"
+         y="-428.72647"
+         sodipodi:linespacing="125%"
+         id="text757">
+        <tspan
+           sodipodi:role="line"
+           id="tspan759"
+           x="735.05908"
+           y="-428.72647">bit diameters.</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="795.29529"
+         y="-227.93906"
+         sodipodi:linespacing="125%"
+         id="text761">
+        <tspan
+           sodipodi:role="line"
+           id="tspan763"
+           x="795.29529"
+           y="-227.93906">* A pocket may be accompanied by a corresponding second line in, for example, 'TOP-POCKET-OUTSIDE_14MM',</tspan>
+      </text>
+      <text
+         style="font-size:60.20000076px;line-height:125%;font-family:Arial;fill:#000000"
+         x="978.18713"
+         y="-127.54536"
+         sodipodi:linespacing="125%"
+         id="text765">
+        <tspan
+           sodipodi:role="line"
+           id="tspan767"
+           x="978.18713"
+           y="-127.54536">describing the limits of the associated pocket.</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-11251.313"
+         sodipodi:linespacing="125%"
+         id="text769">
+        <tspan
+           sodipodi:role="line"
+           id="tspan771"
+           x="17344.488"
+           y="-11251.313">DESIGNERS:</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-11127.297"
+         sodipodi:linespacing="125%"
+         id="text773">
+        <tspan
+           sodipodi:role="line"
+           id="tspan775"
+           x="17344.488"
+           y="-11127.297" />
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10826.083"
+         sodipodi:linespacing="125%"
+         id="text777">
+        <tspan
+           sodipodi:role="line"
+           id="tspan779"
+           x="17344.488"
+           y="-10826.083">DESIGNED FOR CNC-MILLING:</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10702.067"
+         sodipodi:linespacing="125%"
+         id="text781">
+        <tspan
+           sodipodi:role="line"
+           id="tspan783"
+           x="17344.488"
+           y="-10702.067">Sheet thickness:</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10294.555"
+         sodipodi:linespacing="125%"
+         id="text785">
+        <tspan
+           sodipodi:role="line"
+           id="tspan787"
+           x="17344.488"
+           y="-10294.555">PUBLISHED UNDER CREATIVE COMMONS:</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-10170.539"
+         sodipodi:linespacing="125%"
+         id="text789">
+        <tspan
+           sodipodi:role="line"
+           id="tspan791"
+           x="17344.488"
+           y="-10170.539">Licence:</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-9763.0254"
+         sodipodi:linespacing="125%"
+         id="text793">
+        <tspan
+           sodipodi:role="line"
+           id="tspan795"
+           x="17344.488"
+           y="-9763.0254">TERMS AND CONDITIONS APPLY:</tspan>
+      </text>
+      <text
+         style="font-size:46.09999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-9639.0098"
+         sodipodi:linespacing="125%"
+         id="text797">
+        <tspan
+           sodipodi:role="line"
+           id="tspan799"
+           x="17344.488"
+           y="-9639.0098">Saving this file serves as acceptance of the Opendesk terms of use</tspan>
+      </text>
+      <text
+         style="font-size:70.90000153px;line-height:125%;font-family:Arial;fill:#000000"
+         x="17344.488"
+         y="-11552.527"
+         sodipodi:linespacing="125%"
+         id="text801">
+        <tspan
+           sodipodi:role="line"
+           id="tspan803"
+           x="17344.488"
+           y="-11552.527">Sheet:</tspan>
+      </text>
+      <text
+         style="font-size:88.59999847px;line-height:125%;font-family:Arial;fill:#000000"
+         x="5362.2046"
+         y="-13297.747"
+         sodipodi:linespacing="125%"
+         id="text805">
+        <tspan
+           sodipodi:role="line"
+           id="tspan807"
+           x="5362.2046"
+           y="-13297.747">MIRROR LINE</tspan>
+      </text>
+    </symbol>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TOP-CUT-OUTSIDE_18.000MM"
+     id="g825"
+     style="display:inline"
+     transform="translate(-75.93863,3246.4798)">
+    <path
+       d="m 1730.2273,762.85741 -354.7472,0 0,237.40159 662.5984,0 0,-490.19329 a 14.173228,14.173228 0 1 1 20.043,-20.0429 l 43.7366,0 0,-1013.3861 a 31.889764,31.889764 0 0 0 -31.8898,-31.89 l -62.3074,0 a 31.889764,31.889764 0 0 0 -31.818,29.752 l -75.9197,1129.6843 a 170.07874,170.07874 0 0 1 -169.6959,158.6744 z"
+       style="fill:none;stroke:#000000"
+       id="path867"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 125.90958,-2670.6074 -43.736561,0 0,1013.386 a 31.889764,31.889764 0 0 0 31.889761,31.89 l 62.30742,0 a 31.889764,31.889764 0 0 0 31.81799,-29.752 l 75.9196,-1129.684 a 170.07874,170.07874 0 0 1 169.696,-158.675 l 354.7472,0 0,-237.401 -662.59844,0 0,490.193 a 14.173228,14.173228 0 1 1 -20.04297,20.043 z"
+       style="fill:none;stroke:#000000"
+       id="path869"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 82.173019,-523.36329 a 31.889764,31.889764 0 0 1 31.889761,-31.89 l 62.30742,0 a 31.889764,31.889764 0 0 1 31.81799,29.752 l 75.9196,1129.6843 a 170.07874,170.07874 0 0 0 169.696,158.6744 l 354.7472,0 0,237.40159 -662.59844,0 0,-490.19329 a 14.173228,14.173228 0 1 0 -20.04297,-20.0429 l -43.736561,0 0,-1013.3861 z"
+       style="fill:none;stroke:#000000"
+       id="path875"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 2101.8581,-1657.2214 a 31.889764,31.889764 0 0 1 -31.8898,31.89 l -62.3074,0 a 31.889764,31.889764 0 0 1 -31.818,-29.752 l -75.9197,-1129.684 a 170.07874,170.07874 0 0 0 -169.6959,-158.675 l -354.7472,0 0,-237.401 662.5984,0 0,490.193 a 14.173228,14.173228 0 1 0 20.043,20.043 l 43.7366,0 0,1013.386 z"
+       style="fill:none;stroke:#000000"
+       id="path877"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1768.2692,-2256.0404 43.7366,0 0,-510.236 a 106.29921,106.29921 0 0 0 -106.2992,-106.299 l -1240.15751,0 a 106.29921,106.29921 0 0 0 -106.2992,106.299 l 0,510.236 43.7365,0 a 14.173228,14.173228 0 1 1 20.043,20.043 l 0,582.319 70.8661,0 0,-853.937 a 70.866142,70.866142 0 0 1 70.8662,-70.866 l 1041.73231,0 a 70.866142,70.866142 0 0 1 70.8661,70.866 l 0,853.937 70.8661,0 0,-582.319 a 14.173228,14.173228 0 1 1 20.043,-20.043 z"
+       style="fill:none;stroke:#000000"
+       id="path883"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 252.22775,-1246.6894 -158.090651,45.332 -17.58002,-61.309 308.539811,-88.473 a 248.0315,248.0315 0 0 0 179.6648,-238.423 l 0,-731.843 a 70.866142,70.866142 0 0 1 54.9247,-69.05 l 507.47431,-117.16 14.3473,62.145 -215.31511,49.71 a 283.46457,283.46457 0 0 0 -219.6989,276.199 l 0,550.028 a 283.46457,283.46457 0 0 0 219.6989,276.2 l 213.66081,49.327 -14.3473,62.145 -341.15711,-78.762 a 1062.9921,1062.9921 0 0 0 -532.12154,13.934 z"
+       style="fill:none;stroke:#000000"
+       id="path887"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 790.76989,-851.30929 a 15.944882,15.944882 0 0 0 -15.9449,-15.945 l -338.3858,35.433 -338.385811,-35.433 a 15.944882,15.944882 0 0 0 -15.94488,15.945 l 0,109.842 a 15.944882,15.944882 0 0 0 15.94488,15.945 l 338.385811,-35.433 338.3858,35.433 a 15.944882,15.944882 0 0 0 15.9449,-15.945 l 0,-109.842 z"
+       style="fill:none;stroke:#000000"
+       id="path891"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 774.88959,-1090.9024 -338.3859,35.433 -338.385791,-35.433 a 15.944882,15.944882 0 0 0 -15.94488,15.945 l 0,109.84307 a 15.944882,15.944882 0 0 0 15.94488,15.945 l 338.385791,-35.434 338.3859,35.434 a 15.944882,15.944882 0 0 0 15.9448,-15.945 l 0,-109.84307 a 15.944882,15.944882 0 0 0 -15.9448,-15.945 z"
+       style="fill:none;stroke:#000000"
+       id="path893"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1439.196,-1733.8974 -3e-4,550.028 a 283.46457,283.46457 0 0 1 -219.699,276.19911 l -213.6609,49.328 14.3473,62.145 341.1571,-78.763 a 1062.9921,1062.9921 0 0 1 532.1215,13.935 l 158.0907,45.332 17.58,-61.309 -308.5398,-88.47304 A 248.0315,248.0315 0 0 1 1580.928,-1203.8984 l 4e-4,-731.843 a 70.866142,70.866142 0 0 0 -54.9247,-69.05 l -507.4742,-117.16 -14.3473,62.145 215.3151,49.709 a 283.46457,283.46457 0 0 1 219.6987,276.2"
+       style="fill:none;stroke:#000000"
+       id="path899"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 502.05489,-583.59929 a 70.866142,70.866142 0 0 1 70.8662,-70.866 l 1038.18891,0 a 70.866142,70.866142 0 0 1 70.8662,70.866 l 0,67.323 a 14.173228,14.173228 0 0 0 14.1732,14.173 l 58.4646,0 0,1087.7954 a 106.29921,106.29921 0 0 1 -106.2992,106.2992 l -1112.59851,0 a 106.29921,106.29921 0 0 1 -106.2992,-106.2992 l 0,-1087.7954 58.4646,0 a 14.173228,14.173228 0 0 0 14.1732,-14.173 l 0,-67.323 z"
+       style="fill:none;stroke:#000000"
+       id="path903"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TOP-POCKET-INSIDE_1.000MM"
+     id="g907"
+     style="display:inline"
+     transform="translate(-75.93863,3246.4798)">
+    <path
+       d="m 1714.2275,809.95091 -340.1575,34.0122 a 14.173228,14.173228 0 0 0 -12.7631,14.1029 l 0,46.9844 a 14.173228,14.173228 0 0 0 12.7631,14.1029 l 340.1575,34.0122 a 14.173228,14.173228 0 0 0 15.5833,-14.1029 l 0,-115.0088 a 14.173228,14.173228 0 0 0 -15.5833,-14.1029 z"
+       style="fill:none;stroke:#00ff00"
+       id="path925"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 469.80359,-3133.7504 a 14.173228,14.173228 0 0 0 -15.5833,14.103 l 0,115.009 a 14.173228,14.173228 0 0 0 15.5833,14.103 l 340.1575,-34.012 a 14.173228,14.173228 0 0 0 12.7631,-14.103 l 0,-46.984 a 14.173228,14.173228 0 0 0 -12.7631,-14.103 l -340.1575,-34.013 z"
+       style="fill:none;stroke:#00ff00"
+       id="path927"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 809.96129,843.96301 a 14.173228,14.173228 0 0 1 12.7629,14.1029 l 0,46.9846 a 14.173228,14.173228 0 0 1 -12.7629,14.1029 l -341.5678,34.1568 a 14.173228,14.173228 0 0 1 -14.1732,-14.1733 l 0,-115.1574 a 14.173228,14.173228 0 0 1 14.1732,-14.1733 l 341.5678,34.1568 z"
+       style="fill:none;stroke:#00ff00"
+       id="path933"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1374.0698,-3099.7384 341.5678,-34.156 a 14.173228,14.173228 0 0 1 14.1732,14.173 l 0,115.157 a 14.173228,14.173228 0 0 1 -14.1732,14.174 l -341.5678,-34.157 a 14.173228,14.173228 0 0 1 -12.7629,-14.103 l 0,-46.985 a 14.173228,14.173228 0 0 1 12.7629,-14.103 z"
+       style="fill:none;stroke:#00ff00"
+       id="path935"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="TOP-POCKET-INSIDE_3.000MM"
+     id="g941"
+     style="display:inline"
+     transform="translate(-75.93863,3246.4798)">
+    <path
+       d="m 1557.8965,-1144.5524 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1055"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1762.7253,-934.73633 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1057"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1118.2378,-849.10929 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1059"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1349.5548,-902.51329 a 10.629922,10.629922 0 1 0 -21.2598,0 10.629922,10.629922 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1061"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 2001.1484,-866.36929 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1063"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1557.8969,-1892.1904 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1065"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1113.1315,-2069.8364 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1067"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1344.4485,-2016.4324 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1069"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 766.03129,-970.42933 a 10.629922,10.629922 0 1 0 -21.2598,0 10.629922,10.629922 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1087"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 766.03129,-1069.6424 a 10.629922,10.629922 0 1 0 -21.2598,0 10.629922,10.629922 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1089"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 128.23601,-1069.6424 a 10.629921,10.629921 0 1 0 -21.25984,0 10.629921,10.629921 0 1 0 21.25984,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1091"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 128.23601,-970.42933 a 10.629921,10.629921 0 1 0 -21.25984,0 10.629921,10.629921 0 1 0 21.25984,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1093"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 128.1715,-845.99429 a 10.629925,10.629925 0 1 0 -21.25985,0 10.629925,10.629925 0 0 0 21.25985,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1095"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 128.1715,-746.78229 a 10.629925,10.629925 0 1 0 -21.25985,0 10.629925,10.629925 0 0 0 21.25985,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1097"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 765.96679,-746.78229 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1099"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 765.96679,-845.99429 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1101"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 165.80094,-1252.0334 a 10.629921,10.629921 0 1 0 -21.25984,0 10.629921,10.629921 0 1 0 21.25984,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1119"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 609.05299,-1530.2164 a 10.629922,10.629922 0 1 0 -21.2598,0 10.629922,10.629922 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1121"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1048.7115,-1234.7734 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1123"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 817.39459,-1288.1764 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1125"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 404.22409,-1320.4004 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1127"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 609.05299,-2277.8534 a 10.629922,10.629922 0 1 0 -21.2598,0 10.629922,10.629922 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1129"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 1053.8185,-2455.5004 a 10.62995,10.62995 0 1 0 -21.2599,0 10.62995,10.62995 0 0 0 21.2599,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1131"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 822.50149,-2402.0964 a 10.629921,10.629921 0 1 0 -21.2598,0 10.629921,10.629921 0 1 0 21.2598,0 z"
+       style="fill:none;stroke:#000000"
+       id="path1133"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
