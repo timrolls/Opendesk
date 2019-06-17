@@ -30,21 +30,21 @@ Free/Libre Designs
 
 | Name | License | Design Files|
 |------|---------|-------------|
-| [Lean Desk](https://www.opendesk.cc/lean/desk) | CC-BY | [v1.5.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/lean-desk-v1.5.0)  |
-| [Divide](https://www.opendesk.cc/divide/divide) | CC-BY | [v1.0.2](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/divide-v1.0.2) |
-| [Hot Desk](https://www.opendesk.cc/utility/hot-desk) | CC-BY | [v1.1.1](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/hot-desk-v1.1.1) |
-| [Unit Table](https://www.opendesk.cc/unit/unit-table) | CC-BY |[v3.0.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/unit-table-v3.0.0) |
-| [Team Desk](https://www.opendesk.cc/lean/team-desk) | CC-BY | [v1.0.1](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/team-desk-v1.0.1) |
-| [Lift Standing Desk](https://www.opendesk.cc/lean/lift-standing-desk) | CC-BY | [v2.2.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/lift-standing-desk-v2.2.0) |
-| [Fin Lockers](https://www.opendesk.cc/fin/fin-lockers) | CC-BY | [v3.0.2](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/fin-lockers-v3.0.2) |
-| [Fin Bookshelf](https://www.opendesk.cc/fin/fin-bookshelf) | CC-BY | [v3.1.1](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/fin-bookshelf-v3.1.1) |
-| [Fin Locker Planter](https://www.opendesk.cc/fin/fin-locker-planter) | CC-BY | [v1.3.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/fin-locker-planter-v1.3.0) |
-| [Fin Bookshelf Planter](https://www.opendesk.cc/fin/fin-bookshelf-planter) | CC-BY | [v1.1.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/fin-bookshelf-planter-v1.1.0) |
-| [Layout Table](https://www.opendesk.cc/tetrad/layout-table) | CC-BY | [v2.0.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/layout-table-v2.0.0) |
-| [Breakout Table](https://www.opendesk.cc/lean/breakout-table) | CC-BY | [v2.1.1](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/breakout-table-v2.1.1) |
-| [Pedestal](https://www.opendesk.cc/zero/pedestal) | CC0 | [v3.1.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/pedestal-v3.1.0) |
-| [Wiki Booth](https://www.opendesk.cc/zero/wiki-booth) | CC0 | [v3.2.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/wiki-booth-v3.2.0) |
-| [Slim Chair](https://www.opendesk.cc/regaliz/slim-chair) | CC-BY | [v3.0.0](https://github.com/abetusk/dev/tree/release/projects/maslowcnc/opendesk/slim-chair-v3.0.0) |
+| [Lean Desk](https://www.opendesk.cc/lean/desk) | CC-BY | [v1.5.0](https://github.com/timrolls/Opendesk/tree/master/lean-desk-v1.5.0)  |
+| [Divide](https://www.opendesk.cc/divide/divide) | CC-BY | [v1.0.2](https://github.com/timrolls/Opendesk/tree/master/divide-v1.0.2) |
+| [Hot Desk](https://www.opendesk.cc/utility/hot-desk) | CC-BY | [v1.1.1](https://github.com/timrolls/Opendesk/tree/master/hot-desk-v1.1.1) |
+| [Unit Table](https://www.opendesk.cc/unit/unit-table) | CC-BY |[v3.0.0](https://github.com/timrolls/Opendesk/tree/master/unit-table-v3.0.0) |
+| [Team Desk](https://www.opendesk.cc/lean/team-desk) | CC-BY | [v1.0.1](https://github.com/timrolls/Opendesk/tree/master/team-desk-v1.0.1) |
+| [Lift Standing Desk](https://www.opendesk.cc/lean/lift-standing-desk) | CC-BY | [v2.2.0](https://github.com/timrolls/Opendesk/tree/master/lift-standing-desk-v2.2.0) |
+| [Fin Lockers](https://www.opendesk.cc/fin/fin-lockers) | CC-BY | [v3.0.2](https://github.com/timrolls/Opendesk/tree/master/fin-lockers-v3.0.2) |
+| [Fin Bookshelf](https://www.opendesk.cc/fin/fin-bookshelf) | CC-BY | [v3.1.1](https://github.com/timrolls/Opendesk/tree/master/fin-bookshelf-v3.1.1) |
+| [Fin Locker Planter](https://www.opendesk.cc/fin/fin-locker-planter) | CC-BY | [v1.3.0](https://github.com/timrolls/Opendesk/tree/master/fin-locker-planter-v1.3.0) |
+| [Fin Bookshelf Planter](https://www.opendesk.cc/fin/fin-bookshelf-planter) | CC-BY | [v1.1.0](https://github.com/timrolls/Opendesk/tree/master/fin-bookshelf-planter-v1.1.0) |
+| [Layout Table](https://www.opendesk.cc/tetrad/layout-table) | CC-BY | [v2.0.0](https://github.com/timrolls/Opendesk/tree/master/layout-table-v2.0.0) |
+| [Breakout Table](https://www.opendesk.cc/lean/breakout-table) | CC-BY | [v2.1.1](https://github.com/timrolls/Opendesk/tree/master/breakout-table-v2.1.1) |
+| [Pedestal](https://www.opendesk.cc/zero/pedestal) | CC0 | [v3.1.0](https://github.com/timrolls/Opendesk/tree/master/pedestal-v3.1.0) |
+| [Wiki Booth](https://www.opendesk.cc/zero/wiki-booth) | CC0 | [v3.2.0](https://github.com/timrolls/Opendesk/tree/master/wiki-booth-v3.2.0) |
+| [Slim Chair](https://www.opendesk.cc/regaliz/slim-chair) | CC-BY | [v3.0.0](https://github.com/timrolls/Opendesk/tree/master/slim-chair-v3.0.0) |
 
 ---
 
